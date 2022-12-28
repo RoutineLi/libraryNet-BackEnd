@@ -1,0 +1,4 @@
+/home/vrvuser/Book-System/CMakeFiles/edit_cache.dir
+/home/vrvuser/Book-System/CMakeFiles/book.dir
+/home/vrvuser/Book-System/CMakeFiles/rebuild_cache.dir
+/home/vrvuser/Book-System/CMakeFiles/heart.dir

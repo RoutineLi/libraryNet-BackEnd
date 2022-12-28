@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -rdynamic -fno-strict-aliasing -export-dynamic -o3 -pipe -g -D_GNU_SOURCE -D_REENTRANT -m64 -std=c++11 -Wall -Wno-deprecated -Werror -Wno-unused-function -Wno-builtin-macro-redefined -Wno-dev -lssl -lcrypto  -shared -Wl,-soname,libheart.so -o bin/module/libheart.so CMakeFiles/heart.dir/module-src/heart_module.cpp.o   -L/usr/local/lib 

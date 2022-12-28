@@ -1,0 +1,12 @@
+servers:
+    - address: ["172.20.10.3:8020"]
+      type: http
+      accept_worker: accept
+      process_worker:  io
+      io_worker: io
+      timeout: 60000
+      keepalive: true
+      name: routn/1.0.4
+
+
+
